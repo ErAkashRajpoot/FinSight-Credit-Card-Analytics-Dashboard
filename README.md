@@ -54,15 +54,6 @@ A data analytics and business intelligence project built using **Excel**, **MySQ
 - 📊 **Credit Utilization Monitoring**: Visual gauges and KPIs.
 - 📌 **Interactive Filters**: Drill down by customer, time, or type.
 
-<p align="center">
-  <img src="screenshots/Credit%20Card%20Transaction%20Report.png" alt="Transaction Dashboard" width="700"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/Credit%20Card%20Customer%20Report.png" alt="Customer Dashboard" width="700"/>
-</p>
-
----
 
 ## 🧠 Key Insights
 
@@ -71,7 +62,4 @@ A data analytics and business intelligence project built using **Excel**, **MySQ
 - Streamlined financial data processing using SQL.
 - Fraud risk minimized using anomaly detection patterns.
 
----
-
-## 📂 Project Structure
 
